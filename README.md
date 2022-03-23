@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kengketa
 - 👀 I’m interested in developing web applications
-- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on any Laravel projects
 - 📫 How to reach me ...
 
